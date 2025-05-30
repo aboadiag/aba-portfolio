@@ -17,13 +17,14 @@ title: "Abena Boadi-Agyemang"
 email: aboadiag@andrew.cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Academic website, portfolio, general goings-on
+twitter_username: username
 github_username: aboadiag
 minimal_mistakes_skin: default
 search: true
 
 # Build settings
 markdown: kramdown
-theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
