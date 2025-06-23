@@ -2,6 +2,7 @@ main:
   - title: "About"
     url: /
   - title: "Research Projects"
+    url: /research/              
     subnav:
       - title: "Overview"
         url: /research/
