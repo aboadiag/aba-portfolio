@@ -1,15 +1,15 @@
 main:
   - title: "About"
-    url: /aba-portfolio/
+    url: /
   - title: "Research Projects"
     subnav:
       - title: "Overview"
-        url: /aba-portfolio/research/
+        url: /research/
       - title: "Accessible Human-Robot Interaction"
-        url: /aba-portfolio/projects/accessible-human-robot-interaction/
+        url: /projects/accessible-human-robot-interaction/
       - title: "Socially Assistive Agents for Therapeutic Art-Making"
-        url: /aba-portfolio/projects/socially-assistive-agents/
+        url: /projects/socially-assistive-agents/
       - title: "Accessible Haptics"
-        url: /aba-portfolio/projects/accessible-haptics/
+        url: /projects/accessible-haptics/
   - title: "Art"
-    url: /aba-portfolio/art/
+    url: /art/
