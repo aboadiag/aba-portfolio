@@ -1,9 +1,15 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
-    url: /about/
+    url: /
+  - title: "Research Projects"
+    subnav:
+      - title: "Overview"
+        url: /research/
+      - title: "Accessible Human-Robot Interaction"
+        url: /projects/accessible-human-robot-interaction/
+      - title: "Socially Assistive Agents for Therapeutic Art-Making"
+        url: /projects/socially-assistive-agents/
+      - title: "Accessible haptics"
+        url: /projects/accessible-haptics/
+  - title: "Art"
+    url: /art/
