@@ -17,7 +17,8 @@ title: "Abena Boadi-Agyemang"
 email: aboadiag@andrew.cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Academic website, portfolio, general goings-on
-baseurl: "/aba-portfolio"  # 👈 Add this line
+url: "https://aboadiag.github.io"
+baseurl: "/aba-portfolio"  
 github_username: aboadiag
 minimal_mistakes_skin: default
 search: true
