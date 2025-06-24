@@ -18,7 +18,7 @@ email: aboadiag@andrew.cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Academic website, portfolio, general goings-on
 url: "https://aboadiag.github.io"
-baseurl: "/aba-portfolio"  
+baseurl: ""  #personal site
 github_username: aboadiag
 minimal_mistakes_skin: default
 search: true
@@ -63,7 +63,7 @@ author:
   links:
       - label: "Website"
         icon: "fas fa-fw fa-link"
-        url: "https://aboadiag.github.io/aba-portfolio/"
+        url: "https://aboadiag.github.io/"
       - label: "GitHub"
         icon: "fab fa-fw fa-github"
         url: "https://github.com/aboadiag"

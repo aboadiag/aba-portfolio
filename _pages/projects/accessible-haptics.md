@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Haptics"
+title: "Accessible Haptics"
 permalink: /projects/accessible-haptics/
 author_profile: true
 ---
@@ -17,7 +17,6 @@ author_profile: true
 ### Haptic Graphics Rendering (2020–2021)
 
 ### Haptic Oscilloscope (2019)
-
 
 ### Other Haptics Projects 
 
