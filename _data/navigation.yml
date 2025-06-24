@@ -10,8 +10,8 @@ main:
         url: /projects/accessible-human-robot-interaction/
       - title: "Socially Assistive Agents for Therapeutic Art-Making"
         url: /projects/socially-assistive-agents/
-      - title: "Accessible Haptics"
-        url: /projects/accessible-haptics/
+      - title: "Accessible Interfaces & Haptics"
+        url: /projects/accessible-interfaces-haptics/
   - title: "Art"
     url: /art/
   - title: "CV"

@@ -15,5 +15,5 @@ author_profile: true
 
 - Boadi-Agyemang, A.\*, Shih, K.\*, Steinfeld, A. (2023).  
   *Discovering User Needs and Preferences for Guide Robots: Challenges and Preliminary Insights.*  
-  _In Workshop “Assistive Robots for Citizens,” IEEE/RSJ IROS 2023._
+  _In Workshop “Assistive Robots for Citizens,” IEEE/RSJ IROS 2023._📄 [PDF]({{ "/assets/files/ARC23_paper_19.pdf" | relative_url }})
 
