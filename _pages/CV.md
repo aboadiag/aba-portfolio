@@ -7,7 +7,7 @@ author_profile: true
 
 You can download my most recent CV here:
 
-[📄 Download CV (PDF)](/aba-portfolio/assets/files/AbenaBoadi_CV_June2025.pdf)
+[📄 Download CV (PDF)](/assets/files/AbenaBoadi_CV_June2025.pdf)
 
 Alternatively, you can view it inline below:
 
