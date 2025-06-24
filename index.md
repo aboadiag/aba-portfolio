@@ -8,8 +8,7 @@ author_profile: true
 
 Hi, my name is Abena (she/her)! I am a Ph.D. student in the Robotics Institute at Carnegie Mellon University where I am advised by [Aaron Steinfeld](https://www.ri.cmu.edu/ri-faculty/aaron-steinfeld/) and a part of the [TBD Lab](https://tbd.ri.cmu.edu/).
 
-My research interests are at the intersection of human-robot interaction and accessibility. I am broadly interested in applying human-centered design approaches to design robot-mediated interfaces and technologies to support people with disabilities. My most recent work has focused on designing haptic interfaces and robotic mobility aids for people who are blind or have low vision. 
-
+My research interests are at the intersection of **human-robot interaction** and **accessibility**. I am broadly interested in applying human-centered design approaches to design intelligent agents that can support people with disabilities. 
 
 I completed my B.S. in Mechanical Engineering at Stanford University. During my undergraduate studies, I was fortunate to work as an undergraduate researcher in [SHAPE Lab](https://shape.stanford.edu/) under the supervision of Dr. Sean Follmer, at the [Clayman Institute](https://gender.stanford.edu/) for Gender Research with Dr. Melissa Abad, and at the [Stanford Graduate School of Education](https://ed.stanford.edu/faculty/willinsk) with Dr. John Willinsky. 
 

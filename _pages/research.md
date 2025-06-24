@@ -15,7 +15,7 @@ Currently, I focus on the design and evaluation of the following types of agents
 - **Socially assistive agents** to promote mental wellbeing  
 - **Assistive robots** that support people who are blind or have low vision (BLV) and people with physical or motor disabilities with mobility-related tasks, specifically in-door navigation and last-mile delivery tasks
 
-As I am an HRI researcher, I use mixed-methods approaches. Broadly, I leverage tools from across disciplines, including **robotics**, **design research**, **HRI**, **HCI**, and **psychology**. Specifically, I use qualitative methods (i.e., participatory and co-design) to design agent behaviors.  I also use qualitative methods to evaluate the effectiveness of these behaviors on human users (i.e., the degree to which users view a robot as empathic during a therapeutic task).
+As I am an HRI researcher, I use mixed-methods approaches. Broadly, I leverage tools from across disciplines, including **robotics**, **design research**, **HRI**, **HCI**, and **psychology**. Specifically, I use qualitative methods (i.e., participatory and co-design) to design agent behaviors.  I also use quantitative methods (i.e. statistical analyses) to evaluate the effectiveness of these behaviors on human users (i.e., the degree to which users view a robot as empathic during a therapeutic task).
 
 
 In the past, I have worked on **haptic tools** to support BLV students and their educators.
