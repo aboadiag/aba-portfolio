@@ -11,7 +11,7 @@ author_profile: true
 
 - Shih, K.\*, Boadi-Agyemang, A.\*, Carter, E.J., Steinfeld, A.  
   *A Multi-Method Investigation of Guide Robot Characteristics for Blind and Low Vision Users.*  
-  _Under Review._
+  _Forthcoming in ACM Transactions on HRI 2025._
 
 - Boadi-Agyemang, A.\*, Shih, K.\*, Steinfeld, A. (2023).  
   *Discovering User Needs and Preferences for Guide Robots: Challenges and Preliminary Insights.*  
