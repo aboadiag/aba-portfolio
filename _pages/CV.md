@@ -7,7 +7,7 @@ author_profile: true
 
 You can download my most recent CV here:
 
-[📄 Download CV (PDF)]({{ "/assets/files/AbenaBoadi_CV_June2025.pdf" | relative_url }})
+[📄 Download CV (PDF)]({{ "/assets/files/AbenaBoadi_CV_July2025.pdf" | relative_url }})
 
 Alternatively, you can view it inline below:
 
